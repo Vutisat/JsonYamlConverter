@@ -32,5 +32,3 @@ def convertJsonToYaml(contents, fileName):
     print('Conversion Complete!\n' + fileName + '.yaml is outputted.')
 
 main()
-
-# print(contents)
